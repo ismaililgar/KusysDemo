@@ -1,0 +1,28 @@
+﻿@model AddStudentViewModel
+
+<h3 class="mt-2">Add Student</h3>
+<form asp-action="Add" method="post" class="mt-5">
+    <div class="mb-3">
+        <label class="form-label">Name</label>
+        <input type="text" class="form-control" asp-for="FirstName" placeholder="Student Name...">
+    </div>
+    <div class="mb-3">
+        <label class="form-label">Last Name</label>
+        <input type="text" class="form-control" asp-for="LastName" placeholder="Student Last Name...">
+    </div>
+    <div class="mb-3">
+        <label class="form-label">Birth Date</label>
+        <input type="date" class="form-control" asp-for="BirthDate" placeholder="Student Birth Date...">
+    </div>
+    <div class="mb-3">
+        @for (int i = 0; i < Model.Courses?.Count; i++)
+        {
+            <input type="checkbox" class="form-check-input" asp-for="@Model.Courses[i].Checked">
+            <label class="form-check-label" asp-for="@Model.Courses[i].Checked">@Model.Courses[i].CourseName </label>
+            <input type="hidden" asp-for="@Model.Courses[i].CourseId" />
+            <br />
+        }
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+

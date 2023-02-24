@@ -1,0 +1,12 @@
+C:\Users\susmu\source\repos\KUSYS-Demo.Services\KUSYS-Demo.Services\bin\Debug\net6.0\KUSYS-Demo.Services.deps.json
+C:\Users\susmu\source\repos\KUSYS-Demo.Services\KUSYS-Demo.Services\bin\Debug\net6.0\KUSYS-Demo.Services.dll
+C:\Users\susmu\source\repos\KUSYS-Demo.Services\KUSYS-Demo.Services\bin\Debug\net6.0\KUSYS-Demo.Services.pdb
+C:\Users\susmu\source\repos\KUSYS-Demo.Services\KUSYS-Demo.Services\obj\Debug\net6.0\KUSYS-Demo.Services.csproj.AssemblyReference.cache
+C:\Users\susmu\source\repos\KUSYS-Demo.Services\KUSYS-Demo.Services\obj\Debug\net6.0\KUSYS-Demo.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\susmu\source\repos\KUSYS-Demo.Services\KUSYS-Demo.Services\obj\Debug\net6.0\KUSYS-Demo.Services.AssemblyInfoInputs.cache
+C:\Users\susmu\source\repos\KUSYS-Demo.Services\KUSYS-Demo.Services\obj\Debug\net6.0\KUSYS-Demo.Services.AssemblyInfo.cs
+C:\Users\susmu\source\repos\KUSYS-Demo.Services\KUSYS-Demo.Services\obj\Debug\net6.0\KUSYS-Demo.Services.csproj.CoreCompileInputs.cache
+C:\Users\susmu\source\repos\KUSYS-Demo.Services\KUSYS-Demo.Services\obj\Debug\net6.0\KUSYS-Demo.Services.dll
+C:\Users\susmu\source\repos\KUSYS-Demo.Services\KUSYS-Demo.Services\obj\Debug\net6.0\refint\KUSYS-Demo.Services.dll
+C:\Users\susmu\source\repos\KUSYS-Demo.Services\KUSYS-Demo.Services\obj\Debug\net6.0\KUSYS-Demo.Services.pdb
+C:\Users\susmu\source\repos\KUSYS-Demo.Services\KUSYS-Demo.Services\obj\Debug\net6.0\ref\KUSYS-Demo.Services.dll

@@ -1,0 +1,31 @@
+﻿@model List<Student>
+
+<h3>Students</h3>
+<table class="table">
+    <thead class="table-dark">
+        <tr>
+            <th>Id</th>
+            <th>First Name</th>
+            <th>Last Name</th>
+            <th>Birth Date</th>
+            <th>Courses</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var student in Model)
+        {
+            <tr>
+                <td>@student.StudentId</td>
+                <td>@student.FirstName</td>
+                <td>@student.LastName</td>
+                <td>@student.BirthDate.ToShortDateString()</td>
+                @foreach (var course in student.Courses)
+                {
+                    <td>@course.CourseName</td>
+                }
+                <td><a href="Student/View/@student.StudentId" class="btn-outline-secondary">View</a></td>
+            </tr>
+        }
+    </tbody>
+</table>
+

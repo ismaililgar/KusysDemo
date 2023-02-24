@@ -1,0 +1,14 @@
+C:\Users\susmu\source\repos\KUSYS-Demo.DataAccess\KUSYS-Demo.DataAccess\bin\Debug\net6.0\KUSYS-Demo.DataAccess.deps.json
+C:\Users\susmu\source\repos\KUSYS-Demo.DataAccess\KUSYS-Demo.DataAccess\bin\Debug\net6.0\KUSYS-Demo.DataAccess.runtimeconfig.json
+C:\Users\susmu\source\repos\KUSYS-Demo.DataAccess\KUSYS-Demo.DataAccess\bin\Debug\net6.0\KUSYS-Demo.DataAccess.dll
+C:\Users\susmu\source\repos\KUSYS-Demo.DataAccess\KUSYS-Demo.DataAccess\bin\Debug\net6.0\KUSYS-Demo.DataAccess.pdb
+C:\Users\susmu\source\repos\KUSYS-Demo.DataAccess\KUSYS-Demo.DataAccess\obj\Debug\net6.0\KUSYS-Demo.DataAccess.csproj.AssemblyReference.cache
+C:\Users\susmu\source\repos\KUSYS-Demo.DataAccess\KUSYS-Demo.DataAccess\obj\Debug\net6.0\KUSYS-Demo.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\susmu\source\repos\KUSYS-Demo.DataAccess\KUSYS-Demo.DataAccess\obj\Debug\net6.0\KUSYS-Demo.DataAccess.AssemblyInfoInputs.cache
+C:\Users\susmu\source\repos\KUSYS-Demo.DataAccess\KUSYS-Demo.DataAccess\obj\Debug\net6.0\KUSYS-Demo.DataAccess.AssemblyInfo.cs
+C:\Users\susmu\source\repos\KUSYS-Demo.DataAccess\KUSYS-Demo.DataAccess\obj\Debug\net6.0\KUSYS-Demo.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\susmu\source\repos\KUSYS-Demo.DataAccess\KUSYS-Demo.DataAccess\obj\Debug\net6.0\KUSYS-Demo.DataAccess.dll
+C:\Users\susmu\source\repos\KUSYS-Demo.DataAccess\KUSYS-Demo.DataAccess\obj\Debug\net6.0\refint\KUSYS-Demo.DataAccess.dll
+C:\Users\susmu\source\repos\KUSYS-Demo.DataAccess\KUSYS-Demo.DataAccess\obj\Debug\net6.0\KUSYS-Demo.DataAccess.pdb
+C:\Users\susmu\source\repos\KUSYS-Demo.DataAccess\KUSYS-Demo.DataAccess\obj\Debug\net6.0\KUSYS-Demo.DataAccess.genruntimeconfig.cache
+C:\Users\susmu\source\repos\KUSYS-Demo.DataAccess\KUSYS-Demo.DataAccess\obj\Debug\net6.0\ref\KUSYS-Demo.DataAccess.dll
